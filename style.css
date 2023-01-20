@@ -135,6 +135,11 @@ dl, dt, dd, ol, ul, li {
 	padding: 0;
 }
 
+html {
+	scroll-behavior: smooth;
+}
+
+
 .clear {
 	clear: both;
 	display: block;
